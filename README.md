@@ -1,4 +1,4 @@
-Build on the work of n4gi0s (https://gitlab.com/n4gi0s/vu-mapvote) which was greatly appreciated. Rebuilkd it to work with 
+Build on the work of n4gi0s (https://gitlab.com/n4gi0s/vu-mapvote) which was greatly appreciated. Rebuild it to work with new WebUI system that replaces the old Chromium based system.
 
 Still working out some kinks, but it seems to be working at this time.
 
