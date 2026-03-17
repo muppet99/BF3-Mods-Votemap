@@ -7,7 +7,9 @@ Installation:
 
 Extract contect of zip to your mods folder. This should look something like Admin/Mods/vu-mapvote
 Add vu-mapvote to your Admin/ModList.txt
+
 Setup the maps you want in MapList.txt (without this it will not work! See example below)
+
 Voting starts at the endscreen, after 10 seconds. To make sure it does not interfere with the game. 
 
 Optional configuration:
